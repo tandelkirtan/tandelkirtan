@@ -1,6 +1,8 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Kirtan+Tandel...;💻+Software+Developer...;🪄+Graphic+Designer...;🎬+Video+Editor...;💗+Nice+To+Meet+You+....&center=true"></a></p>
+
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://tandelkirtan.io)
     
 # 💫 About Me:
 🔭 I’m currently working on<br>React.js projects, responsive web apps, and full-stack features using the MERN stack<br><br>👯 I’m looking to collaborate on<br>Frontend React projects, open-source UI components, and real-world web applications<br><br>🤝 I’m looking forward to<br>New opportunities to contribute to your company through my skills<br><br>🌱 I’m currently learning<br>Node.js, Express.js, MongoDB, TypeScript, and system design basics<br><br>💬 Ask me about<br>React.js, JavaScript (ES6+), HTML, CSS, REST APIs, and frontend best practices<br><br>⚡ Fun fact<br>I enjoy turning UI designs into pixel-perfect, high-performance web experiences 🚀
