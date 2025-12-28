@@ -20,6 +20,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=tandelkirtan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tandelkirtan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://tandelkirtan.io)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=tandelkirtan&icon=0&color=0)](https://visitcount.itsvg.in)
 
